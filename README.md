@@ -1,5 +1,5 @@
 # robot-gladiators
-JavaScript project for UofA
+JavaScript knowledfe project
 
 ## Purpose
 A small game showing off the functionality of what JavaScript can do.
